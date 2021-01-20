@@ -1,0 +1,479 @@
+[
+    {
+        "url": "/company/a---l-personnel-services",
+        "company name": "A & L Personnel Services",
+        "company_location": "Gregory, Michigan",
+        "company_website": "http://www.cac.net",
+        "company_webdomain": "http://www.cac.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": null,
+        "company_revenue": null
+    },
+    {
+        "url": "/company/a--conferencing",
+        "company name": "A+ Conferencing",
+        "company_location": "Houston, Texas",
+        "company_website": "http://www.aplusconferencing.com",
+        "company_webdomain": "http://www.aplusconferencing.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$100 - 250M"
+    },
+    {
+        "url": "/company/a-beep",
+        "company name": "A Beep",
+        "company_location": "Joliet,  Illinois",
+        "company_website": "http://www.abeep.com",
+        "company_webdomain": "http://www.abeep.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/a-better-connection-telephone-answering-service",
+        "company name": "A Better Connection Telephone Answering Service",
+        "company_location": "Gilbert, Arizona",
+        "company_website": "http://www.abetterconnection.net",
+        "company_webdomain": "http://www.abetterconnection.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/a-d-b",
+        "company name": "A.D.B",
+        "company_location": "Atlanta, Georgia",
+        "company_website": "http://www.adbinc.com",
+        "company_webdomain": "http://www.adbinc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/a-f-technologies-inc",
+        "company name": "A F Technologies Inc",
+        "company_location": "Grand Prairie, Texas",
+        "company_website": "http://www.aftechno.com",
+        "company_webdomain": "http://www.aftechno.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/a-plus-community-solutions--inc-",
+        "company name": "A-PLUS Community Solutions, Inc.",
+        "company_location": "Newnan, Georgia",
+        "company_website": "http://www.a-plus.net",
+        "company_webdomain": "http://www.a-plus.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/a-v--lauttamus-communications--inc-",
+        "company name": "A.V. Lauttamus Communications, Inc.",
+        "company_location": "Weirton,  West Virginia",
+        "company_website": "http://www.lauttamus.com",
+        "company_webdomain": "http://www.lauttamus.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/a1-teletronics-inc-",
+        "company name": "A1 Teletronics Inc.",
+        "company_location": "Saint Petersburg, Florida",
+        "company_website": "http://www.a1teletronics.com",
+        "company_webdomain": "http://www.a1teletronics.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "250 - 1000",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/yiptel",
+        "company name": "YipTel",
+        "company_location": "Sandy, Utah",
+        "company_website": "http://www.yiptel.com",
+        "company_webdomain": "http://www.yiptel.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/a-a-technology-group",
+        "company name": "A&A Technology Group",
+        "company_location": "Waco, Texas",
+        "company_website": "http://www.aatg.net",
+        "company_webdomain": "http://www.aatg.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/a-better-answer-4",
+        "company name": "A Better Answer",
+        "company_location": "Plano,  Texas",
+        "company_website": "http://www.abetteranswer.com",
+        "company_webdomain": "http://www.abetteranswer.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/york-electronic-systems--inc",
+        "company name": "York Electronic Systems, Inc",
+        "company_location": "Broken Arrow, Oklahoma",
+        "company_website": "http://www.yorkes.com",
+        "company_webdomain": "http://www.yorkes.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/youghiogheny-communications---texas--llc-dba-pocket-communications",
+        "company name": "Youghiogheny Communications - Texas, LLC dba Pocket Communications",
+        "company_location": "Bloomfield, Connecticut",
+        "company_website": "http://www.pocket.com",
+        "company_webdomain": "http://www.pocket.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/a2d--inc-",
+        "company name": "A2D, Inc.",
+        "company_location": "Ellenwood, Georgia",
+        "company_website": "http://www.a2dinc.com",
+        "company_webdomain": "http://www.a2dinc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/your-communications",
+        "company name": "Your Communications",
+        "company_location": "Westville,  KwaZulu-Natal",
+        "company_website": "http://www.yourcommunications.co.za",
+        "company_webdomain": "http://www.yourcommunications.co.za",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "url": "/company/yitran-communications-ltd-",
+        "company name": "Yitran Communications Ltd.",
+        "company_location": "San Jose, California",
+        "company_website": "http://www.yitran.com",
+        "company_webdomain": "http://www.yitran.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/yrh-com",
+        "company name": "yrh.com",
+        "company_location": "Montral, QC",
+        "company_website": "http://www.yrh.com",
+        "company_webdomain": "http://www.yrh.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "url": "/company/a-r-management-solutions--llc",
+        "company name": "A/R Management Solutions, LLC",
+        "company_location": "Tempe, Arizona",
+        "company_website": "http://www.crexendo.com",
+        "company_webdomain": "http://www.crexendo.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/a-v-services--inc-",
+        "company name": "A-V Services, Inc.",
+        "company_location": "Fairfield, California",
+        "company_website": "http://www.avservices.net",
+        "company_webdomain": "http://www.avservices.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "url": "/company/youmail--inc-1",
+        "company name": "YouMail, Inc",
+        "company_location": "Irvine,  California",
+        "company_website": "http://www.youmail.com",
+        "company_webdomain": "http://www.youmail.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/your-wireless--inc-",
+        "company name": "Your Wireless, Inc.",
+        "company_location": "Fairfield, California",
+        "company_website": "http://www.yourwirelessinc.com",
+        "company_webdomain": "http://www.yourwirelessinc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/xc-networks-1",
+        "company name": "XC Networks",
+        "company_location": "Dallas, Texas",
+        "company_website": "http://www.xcnetworks.com",
+        "company_webdomain": "http://www.xcnetworks.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xceed-technologies--inc-",
+        "company name": "Xceed Technologies, Inc.",
+        "company_location": "Vienna, Virginia",
+        "company_website": "http://www.xceedcorp.com",
+        "company_webdomain": "http://www.xceedcorp.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "url": "/company/ytel-2",
+        "company name": "Ytel",
+        "company_location": "Foothill Ranch, California",
+        "company_website": "http://www.ytel.com",
+        "company_webdomain": "http://www.ytel.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xchange-telecom-2",
+        "company name": "XCHANGE Telecom",
+        "company_location": "Brooklyn, New york",
+        "company_website": "http://www.xchangetele.com",
+        "company_webdomain": "http://www.xchangetele.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/xcite-online",
+        "company name": "Xcite Online",
+        "company_location": "Orem, Utah",
+        "company_website": "http://www.xciteonline.com",
+        "company_webdomain": "http://www.xciteonline.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "url": "/company/x2nsat-inc--1",
+        "company name": "X2nSat Inc.",
+        "company_location": "Petaluma,  California",
+        "company_website": "http://www.x2nsat.com",
+        "company_webdomain": "http://www.x2nsat.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xandem-technology",
+        "company name": "Xandem Technology",
+        "company_location": "Salt Lake City, Utah",
+        "company_website": "http://www.xandem.com",
+        "company_webdomain": "http://www.xandem.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/xcom-global",
+        "company name": "XCom Global",
+        "company_location": "Sandiego, California",
+        "company_website": "http://www.xcomglobal.com",
+        "company_webdomain": "http://www.xcomglobal.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/xecunet--llc-1",
+        "company name": "Xecunet, LLC",
+        "company_location": "Frederick, Maryland",
+        "company_website": "http://www.xecu.net",
+        "company_webdomain": "http://www.xecu.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xela-communications-2",
+        "company name": "Xela Communications",
+        "company_location": "West Long Branch, New jersey",
+        "company_website": "http://www.xelallc.com",
+        "company_webdomain": "http://www.xelallc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/xeta-technologies--inc",
+        "company name": "Xeta Technologies",
+        "company_location": "Broken Arrow, Oklahoma",
+        "company_website": "http://www.xeta.com",
+        "company_webdomain": "http://www.xeta.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "250 - 1000",
+        "company_revenue": "$50 - 100M"
+    },
+    {
+        "url": "/company/xetawave",
+        "company name": "XetaWave",
+        "company_location": "Louisville, Kentucky",
+        "company_website": "http://www.xetawave.com",
+        "company_webdomain": "http://www.xetawave.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/yupana--inc--1",
+        "company name": "Yupana, Inc.",
+        "company_location": "Walnut Creek, California",
+        "company_website": "http://www.yupanatech.com",
+        "company_webdomain": "http://www.yupanatech.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xhij-canal-44",
+        "company name": "XHIJ Canal 44",
+        "company_location": "Ciudad Juarez, CHIHUAHUA",
+        "company_website": "http://www.canal44.com",
+        "company_webdomain": "http://www.canal44.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xicom-technology-1",
+        "company name": "Xicom Technology",
+        "company_location": "Santa Clara, California",
+        "company_website": "http://www.xicomtech.com",
+        "company_webdomain": "http://www.xicomtech.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/xicomm",
+        "company name": "XICOMM",
+        "company_location": "San Francisco, California",
+        "company_website": "http://www.xicomm.com",
+        "company_webdomain": "http://www.xicomm.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "url": "/company/xilec-telecommunications-inc",
+        "company name": "Xilec Telecommunications Inc",
+        "company_location": "Draper, Utah",
+        "company_website": "http://www.xilec.com",
+        "company_webdomain": "http://www.xilec.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/xcast-labs--inc-1",
+        "company name": "XCast Labs, Inc",
+        "company_location": "Los Angeles, California",
+        "company_website": "http://www.xcastlabs.com",
+        "company_webdomain": "http://www.xcastlabs.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "url": "/company/xena-networks-aps-1",
+        "company name": "Xena Networks ApS",
+        "company_location": "Framingham, Massachusetts",
+        "company_website": "http://www.xenanetworks.com",
+        "company_webdomain": "http://www.xenanetworks.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "url": "/company/xiplink-inc-",
+        "company name": "XipLink Inc.",
+        "company_location": "Montreal, QC",
+        "company_website": "http://www.xiplink.com",
+        "company_webdomain": "http://www.xiplink.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xcellair-1",
+        "company name": "XCellAir",
+        "company_location": "Washington, District of columbia",
+        "company_website": "http://www.fon.com",
+        "company_webdomain": "http://www.fon.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xfone-usa-1",
+        "company name": "Xfone USA",
+        "company_location": "Baton Rouge, Louisiana",
+        "company_website": "http://www.xfoneusa.com",
+        "company_webdomain": "http://www.xfoneusa.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "250 - 1000",
+        "company_revenue": null
+    },
+    {
+        "url": "/company/xiamen-four-faith-communication-technology-co-ltd",
+        "company name": "Xiamen Four-Faith Communication Technology Co.ltd",
+        "company_location": "Xiamen, Fujian",
+        "company_website": "http://www.four-faith.com",
+        "company_webdomain": "http://www.four-faith.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "url": "/company/xclutel-communications",
+        "company name": "XCLUTEL Communications",
+        "company_location": "Westchester, Illinois",
+        "company_website": "http://www.xclutel.com",
+        "company_webdomain": "http://www.xclutel.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "url": "/company/xima-software",
+        "company name": "Xima Software",
+        "company_location": "South Jordan, Utah",
+        "company_website": "http://www.ximasoftware.com",
+        "company_webdomain": "http://www.ximasoftware.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    }
+][
+{"url": "/company/a-cti-1", "company name": "A-CTI", "company_location": "Tualatin, Oregon", "company_website": "http://www.answerconnect.com", "company_webdomain": "http://www.answerconnect.com", "company_industry": "Telecommunications", "company_employee_size": "100 - 250", "company_revenue": null},
+{"url": "/company/ymax-corp", "company name": "YMAX Corp", "company_location": "West Palm Beach, Florida", "company_website": "http://www.ymaxcorp.com", "company_webdomain": "http://www.ymaxcorp.com", "company_industry": "Telecommunications", "company_employee_size": "25 - 100", "company_revenue": "$10 - 50M"},
+{"url": "/company/yoomee-cm", "company name": "Yoomee", "company_location": "Douala,  Littoral", "company_website": "http://www.yoomee.cm", "company_webdomain": "http://www.yoomee.cm", "company_industry": "Telecommunications", "company_employee_size": "100 - 250", "company_revenue": null},
+{"url": "/company/x-digital-systems", "company name": "X-Digital Systems", "company_location": "San Diego, California", "company_website": "http://www.atx.com", "company_webdomain": "http://www.atx.com", "company_industry": "Telecommunications", "company_employee_size": "25 - 100", "company_revenue": "$0 - 1M"},
+{"url": "/company/xdk-industries--inc-", "company name": "XDK INDUSTRIES, INC.", "company_location": "Shenzhen,  Guangdong", "company_website": "http://www.xdkgroup.com", "company_webdomain": "http://www.xdkgroup.com", "company_industry": "Telecommunications", "company_employee_size": "25 - 100", "company_revenue": "$1 - 10M"},
+{"url": "/company/yk-communications", "company name": "YK Communications", "company_location": "Ganado,  Texas", "company_website": "http://www.ykc.com", "company_webdomain": "http://www.ykc.com", "company_industry": "Telecommunications", "company_employee_size": "25 - 100", "company_revenue": "$0 - 1M"}
+]
