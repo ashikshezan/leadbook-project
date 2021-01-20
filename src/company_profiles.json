@@ -1,0 +1,848 @@
+[
+    {
+        "company name": "A & L Personnel Services",
+        "company_location": "Gregory, Michigan",
+        "company_website": "http://www.cac.net",
+        "company_webdomain": "http://www.cac.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": null,
+        "company_revenue": null
+    },
+    {
+        "company name": "A&A Technology Group",
+        "company_location": "Waco, Texas",
+        "company_website": "http://www.aatg.net",
+        "company_webdomain": "http://www.aatg.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "A Better Answer",
+        "company_location": "Plano,  Texas",
+        "company_website": "http://www.abetteranswer.com",
+        "company_webdomain": "http://www.abetteranswer.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "A Better Connection Telephone Answering Service",
+        "company_location": "Gilbert, Arizona",
+        "company_website": "http://www.abetterconnection.net",
+        "company_webdomain": "http://www.abetterconnection.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "A-CTI",
+        "company_location": "Tualatin, Oregon",
+        "company_website": "http://www.answerconnect.com",
+        "company_webdomain": "http://www.answerconnect.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "company name": "A.D.B",
+        "company_location": "Atlanta, Georgia",
+        "company_website": "http://www.adbinc.com",
+        "company_webdomain": "http://www.adbinc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "A F Technologies Inc",
+        "company_location": "Grand Prairie, Texas",
+        "company_website": "http://www.aftechno.com",
+        "company_webdomain": "http://www.aftechno.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "A/R Management Solutions, LLC",
+        "company_location": "Tempe, Arizona",
+        "company_website": "http://www.crexendo.com",
+        "company_webdomain": "http://www.crexendo.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "A.V. Lauttamus Communications, Inc.",
+        "company_location": "Weirton,  West Virginia",
+        "company_website": "http://www.lauttamus.com",
+        "company_webdomain": "http://www.lauttamus.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "A-V Services, Inc.",
+        "company_location": "Fairfield, California",
+        "company_website": "http://www.avservices.net",
+        "company_webdomain": "http://www.avservices.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "company name": "A2D, Inc.",
+        "company_location": "Ellenwood, Georgia",
+        "company_website": "http://www.a2dinc.com",
+        "company_webdomain": "http://www.a2dinc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Aaa Data Communications",
+        "company_location": "Dallas,  Texas",
+        "company_website": "http://www.aaadatacom.com",
+        "company_webdomain": "http://www.aaadatacom.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$100 - 250M"
+    },
+    {
+        "company name": "A Beep",
+        "company_location": "Joliet,  Illinois",
+        "company_website": "http://www.abeep.com",
+        "company_webdomain": "http://www.abeep.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Aavaz Cloud Call Center Software",
+        "company_location": "New Delhi, National Capital Territory of Delhi",
+        "company_website": "http://www.aavaz.biz",
+        "company_webdomain": "http://www.aavaz.biz",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "AB&T Telecom, LLC",
+        "company_location": "Gaithersburg, Maryland",
+        "company_website": "http://www.abttelecom.com",
+        "company_webdomain": "http://www.abttelecom.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$100 - 250M"
+    },
+    {
+        "company name": "Abadi Group",
+        "company_location": "West Long Branch, New jersey",
+        "company_website": "http://www.abadigroup.com",
+        "company_webdomain": "http://www.abadigroup.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": null
+    },
+    {
+        "company name": "Abc Business Communication Inc",
+        "company_location": "Osseo, Minnesota",
+        "company_website": "http://www.ambuscom.com",
+        "company_webdomain": "http://www.ambuscom.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$100 - 250M"
+    },
+    {
+        "company name": "Abc Compounding",
+        "company_location": "Atlanta, Georgia",
+        "company_website": "http://www.abccompounding.com",
+        "company_webdomain": "http://www.abccompounding.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "ABC Technology Group",
+        "company_location": "Fort Lauderdale, Florida",
+        "company_website": "http://www.abctechgroup.com",
+        "company_webdomain": "http://www.abctechgroup.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "ABcom LLC",
+        "company_location": "Phoenix, Arizona",
+        "company_website": "http://www.abcomllc.com",
+        "company_webdomain": "http://www.abcomllc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "250 - 1000",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Abilita",
+        "company_location": "Fort Worth, Texas",
+        "company_website": "http://www.abilita.com",
+        "company_webdomain": "http://www.abilita.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Aamcom",
+        "company_location": "Redondo Beach, California",
+        "company_website": "http://www.aamcom.com",
+        "company_webdomain": "http://www.aamcom.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$50 - 100M"
+    },
+    {
+        "company name": "aaradio.com.au",
+        "company_location": "Melbourne, Victoria",
+        "company_website": "http://www.aaradio.com.au",
+        "company_webdomain": "http://www.aaradio.com.au",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "Aasania",
+        "company_location": "Mississauga,  Ontario",
+        "company_website": "http://www.aasania.com",
+        "company_webdomain": "http://www.aasania.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "Abit Corporation",
+        "company_location": "Glendale, California",
+        "company_website": "http://www.abit.co.jp",
+        "company_webdomain": "http://www.abit.co.jp",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "Abissnet Sh.a",
+        "company_location": "Tirana,  Qarku i Tiranes",
+        "company_website": "http://www.abissnet.al",
+        "company_webdomain": "http://www.abissnet.al",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "Abmnus LLC",
+        "company_location": "Bronxville, New york",
+        "company_website": "http://www.abmnus.com",
+        "company_webdomain": "http://www.abmnus.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "aboutmontana.net",
+        "company_location": "Whitefish, Montana",
+        "company_website": "http://www.montanasky.net",
+        "company_webdomain": "http://www.montanasky.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "AboveNet",
+        "company_location": "White Plains, New york",
+        "company_website": "http://www.above.net",
+        "company_webdomain": "http://www.above.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "> 100K",
+        "company_revenue": "> $1B"
+    },
+    {
+        "company name": "ABS Communications LLC",
+        "company_location": "Norwalk,  Ohio",
+        "company_website": "http://www.abscomm.net",
+        "company_webdomain": "http://www.abscomm.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "Absolute Technology LLC",
+        "company_location": "Greer,  South Carolina",
+        "company_website": "http://www.absolutetechllc.com",
+        "company_webdomain": "http://www.absolutetechllc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": null
+    },
+    {
+        "company name": "Ac Photonics",
+        "company_location": "Santa Clara, California",
+        "company_website": "http://www.acphotonics.com",
+        "company_webdomain": "http://www.acphotonics.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "1K - 10K",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Acacia Communications Inc.",
+        "company_location": "Maynard, Massachusetts",
+        "company_website": "http://www.acacia-inc.com",
+        "company_webdomain": "http://www.acacia-inc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "250 - 1000",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Academy Communications",
+        "company_location": "Cleveland,  Ohio",
+        "company_website": "http://www.academycom.com",
+        "company_webdomain": "http://www.academycom.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "ACBB-BITS LLC",
+        "company_location": "Newark, New jersey",
+        "company_website": "http://www.bits.us",
+        "company_webdomain": "http://www.bits.us",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "ACC Telecom",
+        "company_location": "Abingdon, Maryland",
+        "company_website": "http://www.acctelecom.com",
+        "company_webdomain": "http://www.acctelecom.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Accel-RF Instruments Corporation",
+        "company_location": "San Diego, California",
+        "company_website": "http://www.accelrf.com",
+        "company_webdomain": "http://www.accelrf.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "Accelerated Concepts, Inc.",
+        "company_location": "Tampa,  Florida",
+        "company_website": "http://www.digi.com",
+        "company_webdomain": "http://www.digi.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "D&M Enterprise Group",
+        "company_location": "Holmdel, New jersey",
+        "company_website": "http://www.dmenterprise.net",
+        "company_webdomain": "http://www.dmenterprise.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Ability Answering Service",
+        "company_location": "Bakersfield, California",
+        "company_website": "http://www.abilitymessaging.com",
+        "company_webdomain": "http://www.abilitymessaging.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "AC RadioCom",
+        "company_location": "West Hempstead, New york",
+        "company_website": "http://www.acradiocom.com",
+        "company_webdomain": "http://www.acradiocom.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "ABIS",
+        "company_location": "Grand Prairie, Texas",
+        "company_website": "http://www.abisinc.com",
+        "company_webdomain": "http://www.abisinc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$50 - 100M"
+    },
+    {
+        "company name": "Dakota Network",
+        "company_location": "Fargo, North dakota",
+        "company_website": "http://www.dakotacarrier.com",
+        "company_webdomain": "http://www.dakotacarrier.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "DakotaPro.Biz",
+        "company_location": "Tucson, Arizona",
+        "company_website": "http://www.dakotapro.biz",
+        "company_webdomain": "http://www.dakotapro.biz",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "DALI WIRELESS",
+        "company_location": "Sunnyvale, California",
+        "company_website": "http://www.daliwireless.com",
+        "company_webdomain": "http://www.daliwireless.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "D L Communications",
+        "company_location": "Phoenix, Arizona",
+        "company_website": "http://www.pivium.com",
+        "company_webdomain": "http://www.pivium.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "D2 Technologies",
+        "company_location": "Santa Barbara, California",
+        "company_website": "http://www.d2tech.com",
+        "company_webdomain": "http://www.d2tech.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "damaka Inc.",
+        "company_location": "Richardson, Texas",
+        "company_website": "http://www.damaka.com",
+        "company_webdomain": "http://www.damaka.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "DAMAMAX.",
+        "company_location": "Amman,  Amman Governorate",
+        "company_website": "http://www.damamax.jo",
+        "company_webdomain": "http://www.damamax.jo",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "ACC Business",
+        "company_location": "Rochester, Minnesota",
+        "company_website": "http://www.accbusiness.com",
+        "company_webdomain": "http://www.accbusiness.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "DakotaCom.Net",
+        "company_location": "Tucson, Arizona",
+        "company_website": "http://www.dakotapro.biz",
+        "company_webdomain": "http://www.dakotapro.biz",
+        "company_industry": "Telecommunications",
+        "company_employee_size": null,
+        "company_revenue": null
+    },
+    {
+        "company name": "DaqScribe Solutions, LLC",
+        "company_location": "Centennial,  Wyoming",
+        "company_website": "http://www.daqscribe.com",
+        "company_webdomain": "http://www.daqscribe.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Darien Telephone Co Inc",
+        "company_location": "Townsend,  Georgia",
+        "company_website": "http://www.darientel.net",
+        "company_webdomain": "http://www.darientel.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "DAS Simplified",
+        "company_location": "Seattle, Washington",
+        "company_website": "http://www.dassimplified.com",
+        "company_webdomain": "http://www.dassimplified.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$100 - 250M"
+    },
+    {
+        "company name": "Data Cell Systems, Inc.",
+        "company_location": "La Place, Louisiana",
+        "company_website": "http://www.data-cell.com",
+        "company_webdomain": "http://www.data-cell.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Data Connect Enterprise",
+        "company_location": "Olney, Maryland",
+        "company_website": "http://www.data-connect.com",
+        "company_webdomain": "http://www.data-connect.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Data Hardware Depot",
+        "company_location": "Santa Barbara, California",
+        "company_website": "http://www.dhd.com",
+        "company_webdomain": "http://www.dhd.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "Data-linc Group",
+        "company_location": "Bellevue, Washington",
+        "company_website": "http://www.data-linc.com",
+        "company_webdomain": "http://www.data-linc.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Dan Combs Consulting Inc.",
+        "company_location": "Waterford, Michigan",
+        "company_website": "http://www.dancombsconsulting.com",
+        "company_webdomain": "http://www.dancombsconsulting.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Danville Telecom",
+        "company_location": "Danville, Iowa",
+        "company_website": "http://www.danvilletelco.net",
+        "company_webdomain": "http://www.danvilletelco.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": null
+    },
+    {
+        "company name": "Data-Tel Communications, Inc.",
+        "company_location": "Chicago, Illinois",
+        "company_website": "http://www.data-telinc.net",
+        "company_webdomain": "http://www.data-telinc.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Data Tele Contractors",
+        "company_location": "Ridgefield Park, New jersey",
+        "company_website": "http://www.data-tele.net",
+        "company_webdomain": "http://www.data-tele.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": null
+    },
+    {
+        "company name": "Database Systems Corp.",
+        "company_location": "Phoenix, Arizona",
+        "company_website": "http://www.databasesystemscorp.com",
+        "company_webdomain": "http://www.databasesystemscorp.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": null
+    },
+    {
+        "company name": "dallasdelta.com",
+        "company_location": "Brunswick, VIC",
+        "company_website": "http://www.dallasdelta.com",
+        "company_webdomain": "http://www.dallasdelta.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "Datacom, LLC",
+        "company_location": "Lafayette, Louisiana",
+        "company_website": "http://www.getdatacom.com",
+        "company_webdomain": "http://www.getdatacom.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "company name": "Datacom Systems",
+        "company_location": "East Syracuse, New york",
+        "company_website": "http://www.datacomsystems.com",
+        "company_webdomain": "http://www.datacomsystems.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "datadrill.ca",
+        "company_location": "Calgary,  Alberta",
+        "company_website": "http://www.datadrill.ca",
+        "company_webdomain": "http://www.datadrill.ca",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "DataOnline LLC",
+        "company_location": "Berkeley Heights, New jersey",
+        "company_website": "http://www.anova.com",
+        "company_webdomain": "http://www.anova.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "company name": "DataPath, Inc.",
+        "company_location": "Duluth,  Georgia",
+        "company_website": "http://www.datapath.com",
+        "company_webdomain": "http://www.datapath.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "250 - 1000",
+        "company_revenue": "$250 - 500M"
+    },
+    {
+        "company name": "DataBox Technologies",
+        "company_location": "Snellville, Georgia",
+        "company_website": "http://www.databoxtech.com",
+        "company_webdomain": "http://www.databoxtech.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Datasoft",
+        "company_location": "Tempe, Arizona",
+        "company_website": "http://www.datasoft.com",
+        "company_webdomain": "http://www.datasoft.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "DataTel Communications",
+        "company_location": "Meridian, Idaho",
+        "company_website": "http://www.datatelco.com",
+        "company_webdomain": "http://www.datatelco.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "DataComm Plus",
+        "company_location": "New Berlin, Wisconsin",
+        "company_website": "http://www.phonesplus.net",
+        "company_webdomain": "http://www.phonesplus.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Datatel Solutions",
+        "company_location": "Lincoln, Nebraska",
+        "company_website": "http://www.datatelsolutions.com",
+        "company_webdomain": "http://www.datatelsolutions.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "1K - 10K",
+        "company_revenue": "$250 - 500M"
+    },
+    {
+        "company name": "DataVision Cooperative",
+        "company_location": "Gervais,  Oregon",
+        "company_website": "http://www.datavision.coop",
+        "company_webdomain": "http://www.datavision.coop",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": null
+    },
+    {
+        "company name": "Dataremote, Inc.",
+        "company_location": "Ventura, California",
+        "company_website": "http://www.dataremote.com",
+        "company_webdomain": "http://www.dataremote.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "C Enterprises",
+        "company_location": "Vista, California",
+        "company_website": "http://www.centerprises.com",
+        "company_webdomain": "http://www.centerprises.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "A+ Conferencing",
+        "company_location": "Houston, Texas",
+        "company_website": "http://www.aplusconferencing.com",
+        "company_webdomain": "http://www.aplusconferencing.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$100 - 250M"
+    },
+    {
+        "company name": "A-PLUS Community Solutions, Inc.",
+        "company_location": "Newnan, Georgia",
+        "company_website": "http://www.a-plus.net",
+        "company_webdomain": "http://www.a-plus.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "A1 Teletronics Inc.",
+        "company_location": "Saint Petersburg, Florida",
+        "company_website": "http://www.a1teletronics.com",
+        "company_webdomain": "http://www.a1teletronics.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "250 - 1000",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Accel Networks",
+        "company_location": "Saint Petersburg, Florida",
+        "company_website": "http://www.accel-networks.com",
+        "company_webdomain": "http://www.accel-networks.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": null
+    },
+    {
+        "company name": "Data Optics Cable Inc",
+        "company_location": "San Antonio, Texas",
+        "company_website": "http://www.dataoptics.net",
+        "company_webdomain": "http://www.dataoptics.net",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Data-Tel of Louisiana, Inc.",
+        "company_location": "Baton Rouge, Louisiana",
+        "company_website": "http://www.datatelofla.com",
+        "company_webdomain": "http://www.datatelofla.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "Datacom Connect Inc",
+        "company_location": "Indianapolis, Indiana",
+        "company_website": "http://www.datacomconnect.com",
+        "company_webdomain": "http://www.datacomconnect.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "dataglobal.co.id",
+        "company_location": "Jakarta,  Jakarta",
+        "company_website": "http://www.dataglobal.co.id",
+        "company_webdomain": "http://www.dataglobal.co.id",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "company name": "CÃ?TE OUEST AUDIOVISUEL",
+        "company_location": "Cocody,  Abidjan",
+        "company_website": "http://www.coteouest.tv",
+        "company_webdomain": "http://www.coteouest.tv",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$10 - 50M"
+    },
+    {
+        "company name": "C.E. Communication Services, Inc. (CE COMM)",
+        "company_location": "Medway,  Massachusetts",
+        "company_website": "http://www.cecommunication.com",
+        "company_webdomain": "http://www.cecommunication.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "d2technologie.com",
+        "company_location": "Candiac, Quebec",
+        "company_website": "http://www.d2technologie.com",
+        "company_webdomain": "http://www.d2technologie.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": null
+    },
+    {
+        "company name": "DAILEY & WELLS COMMUNICATIONS, INC.",
+        "company_location": "San Antonio, Texas",
+        "company_website": "http://www.dwcomm.com",
+        "company_webdomain": "http://www.dwcomm.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "100 - 250",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "Datatalk Telecom",
+        "company_location": "Columbus, Georgia",
+        "company_website": "http://www.data-talk.com",
+        "company_webdomain": "http://www.data-talk.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "C-Data Technology Ltd",
+        "company_location": "Shenzhen, Guangdong",
+        "company_website": "http://www.cdatatec.com",
+        "company_webdomain": "http://www.cdatatec.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "250 - 1000",
+        "company_revenue": "$1 - 10M"
+    },
+    {
+        "company name": "DataTech-Plus, Inc.",
+        "company_location": "Raleigh, North carolina",
+        "company_website": "http://www.datatech-plus.com",
+        "company_webdomain": "http://www.datatech-plus.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "1K - 10K",
+        "company_revenue": "$500M - 1B"
+    },
+    {
+        "company name": "Datacomm Services Corporation",
+        "company_location": "Memphis, Tennessee",
+        "company_website": "http://www.dscdatacomm.com",
+        "company_webdomain": "http://www.dscdatacomm.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "25 - 100",
+        "company_revenue": "$0 - 1M"
+    },
+    {
+        "company name": "C.Link Construction",
+        "company_location": "Pearland, Texas",
+        "company_website": "http://www.clinkcorp.com",
+        "company_webdomain": "http://www.clinkcorp.com",
+        "company_industry": "Telecommunications",
+        "company_employee_size": "0 - 25",
+        "company_revenue": "$1 - 10M"
+    }
+]
