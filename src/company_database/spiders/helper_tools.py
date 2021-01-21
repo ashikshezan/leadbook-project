@@ -36,7 +36,6 @@ def get_company_contacts(response) -> List:
     contact_items = response.xpath(
         "//div[@class='top-contact-item']")
     for contact in contact_items:
-        print('==============')
         name = contact.xpath('.//a//text()').get()
         link = contact.xpath('.//a//@href').get()
         job_title = contact.xpath(
