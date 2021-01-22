@@ -55,3 +55,21 @@ Second reason is, MongoDB is more suitable for this kind of data. The company in
 ```
 
 Where I was able to keep the `contact_details` as a list which was never be possible in a Relational Database Management System. I had to create another table for contact details then connect it with a foreign key to the company profile table and so on. But in MongoDB it is like storing data as a JSON file which is more flexible, easy to work with, much faster and scalable. So, not that I learned MongoDB to use it as the database for this project, I would always choose mongodb for this project if I did have working experience with MongoDB at the first place.
+
+
+
+# Result
+
+Total number of company urls found: 1128
+
+Total number of companies are scraped: 1045
+
+Duplicate company urls: 4
+
+Unavailable company pages: 83 
+
+# Footnote
+
+- Every time the second spider is run and fetch new data it add the output JSON list at the end of the existing file `src/company_profiles.json` 
+  So it has to be manually edited by merging multiple JSON list to ONE. I have not find any viable solution to this particular problem. And same problem is applicable for the `src/company_profiles.json` file. But apart from this little manual adjustment everything run without any issue.
+
