@@ -73,3 +73,4 @@ Unavailable company pages: 83
 - Every time the second spider is run and fetch new data it add the output JSON list at the end of the existing file `src/company_profiles.json` 
   So it has to be manually edited by merging multiple JSON list to ONE. I have not find any viable solution to this particular problem. And same problem is applicable for the `src/company_profiles.json` file. But apart from this little manual adjustment everything run without any issue.
 
+*edited from ashik@leadbook.com*
